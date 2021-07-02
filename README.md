@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joselier3
 - 👀 I’m interested in Computer Science, Physics and Philosophy
 - 🌱 I’m currently learning App Dev with Kotlin
-- 💞️ I’m looking to collaborate on mobile apps
+- 💞️ I’m looking forward to collaborate on mobile apps
 - 📫 joselierfajardo@gmail.com
 
 <!---
