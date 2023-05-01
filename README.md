@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Joselier3
 - 👀 I’m interested in Computer Science, Physics and Philosophy
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking forward to collaborate on ML projects
+- 💞️ I’m looking forward to collaborate on projects
 - 📫 joselierfajardo@gmail.com
 
 <!---
