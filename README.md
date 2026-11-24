@@ -1,9 +1,11 @@
-making ai agents work in tricky use-cases
+making ai agents work in tricky use-cases, and measuring them before they go live
 
-i write about ai on [NeuroNautas](https://neuronautasrd.com)
+- building [IKARO](https://ikaro.pro), an ai hiring platform that pre-screens candidates for thousands of different positions (i'm the CTO)
+- built Robin, a market-research agent inside QuanTech's Market Monitor, bringing agent-based financial analysis to the Dominican Republic
+- running [NeuroNautas Labs](https://neuronautasrd.com), my studio: whatsapp agents that turn handwritten prescriptions into orders (6,000+ processed) and handle customer support (~60% of messages resolved without a person)
 
-bringing ai agent-based financial analysis to the Dominican Republic with Quantech and Market Monitor
+i write and give talks about ai at [neuronautasrd.com](https://neuronautasrd.com)
 
-building [Ikaro](https://ikaro.neuronautasrd.com) for pre-screening candidates for thousands of different positions
+usually working with langgraph · langsmith · kapso (whatsapp) · openrouter
 
-contact me at joselierfajardo@gmail.com
+reach me at joselierfajardo@gmail.com or on [linkedin](https://linkedin.com/in/jose-e-fajardo)
