@@ -6,6 +6,6 @@ making ai agents work in tricky use-cases, and measuring them before they go liv
 
 i write and give talks about ai at [neuronautasrd.com](https://neuronautasrd.com)
 
-usually working with langgraph · langsmith · kapso (whatsapp) · openrouter
+usually working with langgraph · langsmith · kapso (whatsapp) · openrouter · python · typescript · postgres
 
 reach me at joselierfajardo@gmail.com or on [linkedin](https://linkedin.com/in/jose-e-fajardo)
